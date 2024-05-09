@@ -1,3 +1,12 @@
+<h1> Redux Crud </h1>
+
+Redux installation has been completed, and this is the first project utilizing Redux. It forms the foundation of all projects.
+
+<h2>Screenshot</h2>
+
+![](Screen-Recording.gif)
+
+<h3>REDUX</H3>
 # State Yonetimi
 
 - State: Uygulamadaki bilesenlerin sahip oldugu bilgi ve ozellikler.
@@ -55,4 +64,3 @@
 
 - - state yanlis guncellendi
 - - api dogru guncellendi
-# Redux_Crud
